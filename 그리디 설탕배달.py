@@ -18,4 +18,3 @@ if 3 <= sugar <= 5000:
         print("{0}".format(int(basket_5+basket_3)))        
     else:
         print("-1")     
-
