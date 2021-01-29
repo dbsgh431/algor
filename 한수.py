@@ -1,7 +1,7 @@
 N = int(input())
 cnt = 0
-
 res = 0
+
 while N >= 1:
     if N > 99:
         d_list = list(str(N))
